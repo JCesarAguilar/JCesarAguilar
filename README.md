@@ -13,7 +13,6 @@
 
 💻 Experiencia en desarrollo de interfaces con tecnologías como HTML, CSS, JavaScript, React, TypeScript y NEXT.JS. Apasionado por crear experiencias limpias, accesibles y mantenibles.
 
-📫 Contacto: **jcesar.a.15@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -22,9 +21,14 @@
 <!-- tech stack icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vercel,nodejs,express,postgres,mongodb,jest,git,github,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vercel,nodejs,express,postgres,mongodb,jest,git,github,postman,vscode,figma" />
   </a>
 </p>
 <br>
 <!-- ------------------------------- -->
+
+<h2>No dudes en contactarme 🙂</h2>
+
+📬 Correo: **jcesar.a.15@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/jcesar-a](https://www.linkedin.com/in/jcesar-a)
 
