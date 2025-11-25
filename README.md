@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Julio César Aguilar ✨ </h1> 
 
-<!--
-**JCesarAguilar/JCesarAguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://www.linkedin.com/in/julio-aguilar-47232b364/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JcesarAguilar"/></a>
+<a href = "mailto:jcesar.a.15@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@JCesarAguilar"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 INGENIERO INDUSTRIAL Y DESARROLLADOR FULLSTACK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Experiencia en desarrollo de interfaces con tecnologías como HTML, CSS, JavaScript, React, TypeScript y NEXT.JS. Apasionado por crear experiencias limpias, accesibles y mantenibles.
+
+📫 Contacto: **jcesar.a.15@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
