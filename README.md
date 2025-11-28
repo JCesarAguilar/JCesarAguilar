@@ -1,10 +1,11 @@
 ![Banner](https://i.ibb.co/q39GLVt7/Banner-Linkedin.png)
-
-<h1 align="center">Hola 👋  soy Julio César Aguilar ✨ </h1> 
-
-<p align="left">
 <a href="https://www.linkedin.com/in/julio-aguilar-47232b364/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JcesarAguilar"/></a>
 <a href = "mailto:jcesar.a.15@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@JCesarAguilar"  /></a>
+
+<h1 align="left"><i>Hola, soy Julio César Aguilar</i> </h1> 
+
+<p align="left">
+
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
