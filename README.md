@@ -53,10 +53,7 @@
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-333333?style=for-the-badge&logo=abstract&logoColor=white)
 ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-333333?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrum&logoColor=white)
-
-
-
-
+<br/><br/>
 <h2>No dudes en contactarme 🙂</h2>
 
 📬 Correo: **jcesar.a.15@gmail.com**  
