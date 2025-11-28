@@ -1,3 +1,5 @@
+![Banner](https://i.ibb.co/q39GLVt7/Banner-Linkedin.png)
+
 <h1 align="center">Hola 👋  soy Julio César Aguilar ✨ </h1> 
 
 <p align="left">
