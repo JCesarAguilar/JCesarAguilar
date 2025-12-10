@@ -1,5 +1,5 @@
 ![Banner](https://i.ibb.co/q39GLVt7/Banner-Linkedin.png)
-<a href="https://www.linkedin.com/in/julio-césar-aguilar-47232b364/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JcesarAguilar"/></a>
+<a href="https://www.linkedin.com/in/julio-aguilar-47232b364/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JcesarAguilar"/></a>
 <a href = "mailto:jcesar.a.15@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@JCesarAguilar"  /></a>
 
 <h1 align="left"><i>Hola, soy Julio César Aguilar</i> </h1> 
@@ -57,6 +57,6 @@
 <h2>No dudes en contactarme 🙂</h2>
 
 📬 Correo: **jcesar.a.15@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/julio-césar-aguilar-47232b364](https://www.linkedin.com/in/julio-césar-aguilar-47232b364/)
+🔗 LinkedIn: [linkedin.com/in/julio-aguilar-47232b364](https://www.linkedin.com/in/julio-aguilar-47232b364/)
 
 
