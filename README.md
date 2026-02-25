@@ -60,6 +60,6 @@
 <h2>No dudes en contactarme 🙂</h2>
 
 📬 Correo: **jcesar.a.15@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/julio-aguilar-47232b364](https://www.linkedin.com/in/julio-aguilar-47232b364/)
+🔗 LinkedIn: [linkedin.com/in/julio-cesar-aguilar-dev](https://www.linkedin.com/in/julio-aguilar-47232b364/)
 
 
