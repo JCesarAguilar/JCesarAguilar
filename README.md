@@ -14,7 +14,7 @@
 <p align="left">
 🎓 DESARROLLADOR FULLSTACK E INGENIERO INDUSTRIAL
 
-💻 Experiencia en desarrollo de interfaces con tecnologías como HTML, CSS, JavaScript, React, TypeScript y NEXT.JS. Apasionado por crear experiencias limpias, accesibles y mantenibles.
+💻 Experiencia en desarrollo de interfaces con tecnologías como HTML, CSS, JavaScript, TypeScript, Reat, NexT.JS, NesT.JS y Python Apasionado por crear experiencias limpias, accesibles y mantenibles.
 
 <!--Intro end-->
   </p>
