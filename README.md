@@ -12,13 +12,13 @@ Construyo aplicaciones con IA listas para producción: **agentes, RAG y voz**. E
 
 <h2>🚀 Proyectos destacados</h2>
 
-| | Proyecto | Resultado |
-| :---: | --- | --- |
-| 🎙️ | [**Lucía — Recepcionista de voz**](https://github.com/JCesarAguilar/voice-receptionist)<br>Agenda, cobra por WhatsApp y deriva urgencias | **13/13** escenarios · **US$ 0,065** por llamada |
-| 📄 | [**Comparador de contratos**](https://github.com/JCesarAguilar/contract-comparison-agent)<br>Visión GPT-4o + 2 agentes | **14/14** cambios · **−40 %** latencia |
-| 🧭 | [**Soporte multiagente**](https://github.com/JCesarAguilar/multi-agent-support)<br>Orquestador + 3 agentes RAG + evaluador | **100 %** de ruteo correcto |
-| ⚖️ | [**Asistente legal RAG**](https://github.com/JCesarAguilar/asistente_legal_RAG)<br>Recuperación híbrida sobre documentos legales | OpenAI + Pinecone |
-| 🌐 | **RedLegal.pe**<br>Marketplace que conecta personas con abogados | **+120** usuarios en 48 h · **16 %** de conversión |
+| | Proyecto | Qué hace | Resultado |
+| :---: | --- | --- | --- |
+| 🎙️ | [**Lucía — Recepcionista de voz**](https://github.com/JCesarAguilar/voice-receptionist) | Agenda citas, cobra por WhatsApp y deriva urgencias | **13/13** escenarios · **US$ 0,065** por llamada |
+| 📄 | [**Comparador de contratos**](https://github.com/JCesarAguilar/contract-comparison-agent) | Lee contratos escaneados con visión y 2 agentes extraen los cambios | **14/14** cambios · **−40 %** latencia |
+| 🧭 | [**Soporte multiagente**](https://github.com/JCesarAguilar/multi-agent-support) | Orquestador que enruta consultas a 3 agentes RAG, con evaluador | **100 %** de ruteo correcto |
+| ⚖️ | [**Asistente legal RAG**](https://github.com/JCesarAguilar/asistente_legal_RAG) | Responde consultas legales con búsqueda híbrida en documentos | OpenAI + Pinecone |
+| 🌐 | **RedLegal.pe** | Marketplace que conecta personas con abogados verificados | **+120** usuarios en 48 h · **16 %** de conversión |
 
 <br>
 
