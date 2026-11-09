@@ -18,7 +18,7 @@ Construyo aplicaciones con IA listas para producción: **agentes, RAG y voz**. E
 | 📄 | [**Comparador de contratos**](https://github.com/JCesarAguilar/contract-comparison-agent) | Lee contratos escaneados con visión y 2 agentes extraen los cambios | **14/14** cambios · **−40 %** latencia |
 | 🧭 | [**Soporte multiagente**](https://github.com/JCesarAguilar/multi-agent-support) | Orquestador que enruta consultas a 3 agentes RAG, con evaluador | **100 %** de ruteo correcto |
 | ⚖️ | [**Asistente legal RAG**](https://github.com/JCesarAguilar/asistente_legal_RAG) | Responde consultas legales con búsqueda híbrida en documentos | OpenAI + Pinecone |
-| 🌐 | [**RedLegal.pe**](https://www.redlegal.pe)<br>🟢 En producción | Marketplace que conecta personas con abogados verificados | **+90** abogados registrados · **+50** contactos generados |
+| 🌐 | [**RedLegal.pe**](https://www.redlegal.pe)<br>🟢 En producción | Marketplace que conecta personas con abogados reales y verificados | **+90** abogados registrados · **+50** contactos generados |
 
 <br>
 
