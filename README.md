@@ -72,7 +72,10 @@ Construyo aplicaciones con IA listas para producción: **agentes, RAG y voz**. E
 
 <h2>🎓 Formación</h2>
 
-🤖 **AI Engineering** — Henry (2026) · 💻 **Full Stack Development** — Henry (2025) · 🏭 **Ingeniería Industrial**
+🧠 **Máster en Inteligencia Artificial** — Conquer Blocks (en curso)<br>
+🤖 **AI Engineering** — Henry (2026)<br>
+💻 **Full Stack Development** — Henry (2025)<br>
+🏭 **Ingeniería Industrial**
 
 <br>
 
